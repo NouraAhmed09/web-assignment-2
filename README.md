@@ -1,1 +1,2 @@
 # web-assignment-2
+For the assignment, I integrated an external API into a web page using AJAX requests to communicate asynchronously. By utilizing JavaScript, I dynamically updated the Document Object Model (DOM) to display the retrieved data from the API. This process involved fetching data from the API endpoint, handling the response in JSON format, and seamlessly updating the webpage with the received information. This project showcased my proficiency in utilizing AJAX to interact with external APIs and manipulating the DOM to present data dynamically on a web page.
